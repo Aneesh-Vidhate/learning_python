@@ -1,1 +1,5 @@
 print("Hello World")
+print("A dog:")
+print("O---")
+print(" ||||")
+print("*" * 10)
